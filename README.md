@@ -3,7 +3,6 @@
 ## 🌟 About Me
 💻 **Full-Stack Developer** specializing in **Spring Boot & Angular**  
 🌱 Currently mastering **Microservices Architecture & Cloud Technologies**  
-🌍 Civil Engineer turned Software Developer | Building efficient web solutions  
 🤝 Open to collaborations on innovative projects  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdelbasset-ghoul-303358292/) | ghoul.abdelbasset@gmail.com
 
