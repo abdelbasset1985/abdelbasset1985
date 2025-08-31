@@ -22,7 +22,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-1572B6?logo=angular&logoColor=white)
-
+![Tailwindcss](https://img.shields.io/badge/PrimeNG-1572B6?logo=angular&logoColor=white)
 ### **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
